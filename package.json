@@ -1,0 +1,23 @@
+{
+  "name": "bbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da-matsumoto/bbs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da-matsumoto/bbs/issues"
+  },
+  "homepage": "https://github.com/da-matsumoto/bbs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
